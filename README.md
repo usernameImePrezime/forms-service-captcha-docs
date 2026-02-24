@@ -25,4 +25,4 @@ Sometimes an attack doesn't follow any of the rules. In those cases the team can
 * **[PLACEHOLDER]**. Request flow diagram
 * **[PLACEHOLDER]**. Table of API error codes, for CAPTCHA failures.
 
-*Drafted for intern project*
+*Drafted for an intern project*
